@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datasets
+data/
+
+# Model checkpoints
+models/
+*.pth
+
+# Generated features and indexes
+outputs/features/
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
